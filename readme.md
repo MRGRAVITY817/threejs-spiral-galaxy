@@ -1,16 +1,10 @@
-# Three.js Journey
+# Spiral Galaxy using Three.js
 
-## Setup
-Download [Node.js](https://nodejs.org/en/download/).
-Run this followed commands:
+![screenshot](./screenshot.gif)
 
-``` bash
-# Install dependencies (only the first time)
-npm install
+Reference repo to remember how I learned these things in Three.js:
+- Particles
+- Drawing paths using mathematical functions
+- Interpolating lights
 
-# Run the local server at localhost:8080
-npm run dev
 
-# Build for production in the dist/ directory
-npm run build
-```
